@@ -1,2 +1,6 @@
 # image-processing-for-high-pass-filters
-how high pass filters are implemented with cv library in python 
+CONTRIBUTERS:
+             TEAM CONCEPT
+             ARJUN SATHEESH
+             PRIYANSHU BHAGAT
+             GAUTAM GOVINDARAJU
